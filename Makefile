@@ -1,5 +1,12 @@
-SHELL := /bin/bash
-COURSE = 
+# GNU Make on Windows falls back to cmd.exe, which treats <target> as a redirect
+# and does not provide grep/awk. Use Git Bash when present.
+ifeq ($(OS),Windows_NT)
+  SHELL := C:/PROGRA~1/Git/usr/bin/bash.exe
+  .SHELLFLAGS := --login -c
+else
+  SHELL := /bin/bash
+endif
+COURSE =
 
 .PHONY: all clean
 
