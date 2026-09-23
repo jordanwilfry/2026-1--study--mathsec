@@ -4,11 +4,11 @@
   "description": "Математические основы защиты информации и информационной безопасности",
   "main": "index.js",
   "repository": "https://github.com/jordanwilfry/2026-1--study--mathsec.git",
-  "author": "jordanwilfry <jordanwilfry02@gmail.com>",
+  "author": "Мбах Наусси Джордан Вилфри <jordanwilfry02@gmail.com>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-customizable"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
     }
+  }
 }
