@@ -34,7 +34,7 @@ format:
     toc-depth: 2
   ### Pdf output format
   pdf:
-    # pdf-engine: xelatex
+    pdf-engine: xelatex
     ### minted support
     # filters:
     #   - minted-quarto
@@ -53,12 +53,12 @@ format:
     babel-lang: russian
     babel-otherlangs: english
     #### Biblatex
-    cite-method: biblatex
-    biblio-style: gost-numeric
-    biblatexoptions:
-      - backend=biber
-      - langhook=extras
-      - autolang=other*
+    # cite-method: biblatex
+    # biblio-style: gost-numeric
+    # biblatexoptions:
+    #   - backend=biber
+    #   - langhook=extras
+    #   - autolang=other*
     #### Misc options
     csquotes: true
     indent: true
