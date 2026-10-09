@@ -13,6 +13,9 @@ crossref:
   lol-title: Листинги
 format: # Formats
   beamer: # Pdf output format
+    latex-engine: xelatex
+    mainfont: "Helvetica Neue"
+    monofont: "PT Mono"
     toc: true
     toc-title: Содержание
     number-sections: false
