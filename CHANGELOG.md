@@ -1,3 +1,5 @@
+# [4.0.0](https://github.com/jordanwilfry/2026-1--study--mathsec/compare/v3.0.0...v4.0.0) (2026-10-24)
+
 # [3.0.0](https://github.com/jordanwilfry/2026-1--study--mathsec/compare/v1.0.0...v3.0.0) (2026-10-09)
 
 # [2.0.0](https://github.com/jordanwilfry/2026-1--study--mathsec/compare/v1.0.0...v2.0.0) (2026-09-25)
